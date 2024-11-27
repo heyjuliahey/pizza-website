@@ -1,4 +1,4 @@
-## Pizza website
+# Pizza website
 
 Technologies used: HTML, CSS, JavaScript
 
